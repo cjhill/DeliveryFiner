@@ -1,2 +1,0 @@
-# DeliveryFiner
-Created with CodeSandbox
